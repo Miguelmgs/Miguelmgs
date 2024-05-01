@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @Miguelmgs
-- 🔥 I’m a logo designer, car video editor (3d and so on) and I'm also a programmer.
-- 📄 I speak Portuguesse; English; Spanish; and i speak a little Germany; Franch and Japonese
+- 🔥 I’m an HTML and JS programmer
+- 📄 I speak Portuguesse; English; Spanish; and i speak a little Germany
 - 😄 Pronouns: He
 
 <!---
