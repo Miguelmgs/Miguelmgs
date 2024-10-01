@@ -1,6 +1,6 @@
-- 👋 Hello, I’m @Miguelmgs
-- 🔥 I’m an HTML and JS programmer
-- 📄 I speak Portuguesse; English; Spanish; and i speak a little Germany
+- 👋 Hello, I’m MGS
+- 🔥 I’m a programmer and moderator
+- 📄 I speak Portuguesse; English; Spanish; and i speak a little Germany and French
 - 😄 Pronouns: He
 
 <!---
