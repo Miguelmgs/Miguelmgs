@@ -1,5 +1,5 @@
 - 👋 Hello, I’m MGS
-- 🔥 I’m a JavaScript Programmer
+- 🔥 I’m a Game Dev
 - 😄 Pronouns: He
 
 
