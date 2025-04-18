@@ -1,5 +1,4 @@
 - 👋 Hello, I’m MGS
-- 🔥 I’m a Game Dev
 - 😄 Pronouns: He
 
 
